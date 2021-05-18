@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url(a8d6ac03c7b96b7acb6228ff2676139d.ttf) format('truetype');
+}
+
+body{font-family:"Roboto",sans-serif;padding:0;margin:0;box-sizing:border-box}.container{padding-top:2rem;max-width:1200px;margin:0 auto}h1{text-align:center;color:green}
